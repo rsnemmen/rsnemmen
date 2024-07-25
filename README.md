@@ -4,24 +4,26 @@
 
 Astrophysicist. Data scientist. Professor. Research Scientist. Team Leader. Curious person.
 
-## GitHub Stats
+My website: [rodrigonemmen.com](https://rodrigonemmen.com) \
+My Research Team’s website: [blackholegroup.org](https://blackholegroup.org)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsnemmen&show_icons=true&theme=radical)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/yourchannelid)
+[![Goodreads Profile](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/youruserid)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
-## Top Languages
+![](https://github-readme-stats.vercel.app/api?username=rsnemmen&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsnemmen&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsnemmen&layout=compact&theme=radical)
 
 ## Trophy Case
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rsnemmen&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=rsnemmen&theme=radical)
 
 ## Contact Me
 
-- Website: [rodrigonemmen.com](https://rodrigonemmen.com)
 - Email: [lullaby.utmost_0y@icloud.com](mailto:lullaby.utmost_0y@icloud.com) (this is an alias to minimize spam)
 - LinkedIn: [nemmen](https://linkedin.com/in/nemmen)
-- Youtube: [RodrigoNemmendaSilva](https://www.youtube.com/@RodrigoNemmendaSilva)
 
 ## Cool Stuff
 
@@ -34,10 +36,10 @@ TBD
 
 ### Blog Posts
 
-- [How to Get Started with Open Source](https://yourblog.com/how-to-get-started-with-open-source)
-- [A Deep Dive into Machine Learning](https://yourblog.com/a-deep-dive-into-machine-learning)
+- [Useful post 1](https://yourblog.com/how-to-get-started-with-open-source)
+- [Useful post 2](https://yourblog.com/a-deep-dive-into-machine-learning)
 
 ### Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/rsnemmen?style=social)
-![X Follow](https://img.shields.io/twitter/follow/nemmen?style=social)
+![Follow me on X](https://img.shields.io/twitter/follow/nemmen?style=social)
