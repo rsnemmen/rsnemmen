@@ -1,6 +1,4 @@
-# Welcome to Rodrigo Nemmen’s GitHub Profile
-
-## About Me
+## About Rodrigo
 
 Astrophysicist. Data scientist. Professor. Research Scientist. Team Leader. Curious person.
 
