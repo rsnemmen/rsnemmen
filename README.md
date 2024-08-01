@@ -5,10 +5,10 @@ Astrophysicist. Data scientist. Professor. Research Scientist. Team Leader. Curi
 My website: [rodrigonemmen.com](https://rodrigonemmen.com) \
 My Research Team’s website: [blackholegroup.org](https://blackholegroup.org)
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/yourchannelid)
-[![Goodreads Profile](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/youruserid)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](http://www.youtube.com/@RodrigoNemmendaSilva)
+[![Goodreads Profile](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/23648829-rodrigo-nemmen)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nemmen)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lullaby.utmost_0y@icloud.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=rsnemmen&show_icons=true&theme=radical)
 
