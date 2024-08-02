@@ -23,21 +23,6 @@ My Research Team’s website: [blackholegroup.org](https://blackholegroup.org)
 - Email: [lullaby.utmost_0y@icloud.com](mailto:lullaby.utmost_0y@icloud.com) (this is an alias to minimize spam)
 - LinkedIn: [nemmen](https://linkedin.com/in/nemmen)
 
-## Cool Stuff
-
-TBD
-
-### Projects
-
-- [Awesome Project 1](https://github.com/yourusername/awesome-project-1): A brief description of what this project does.
-- [Awesome Project 2](https://github.com/yourusername/awesome-project-2): A brief description of what this project does.
-
-### Blog Posts
-
-- [Useful post 1](https://yourblog.com/how-to-get-started-with-open-source)
-- [Useful post 2](https://yourblog.com/a-deep-dive-into-machine-learning)
-
-### Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/rsnemmen?style=social)
 ![Follow me on X](https://img.shields.io/twitter/follow/nemmen?style=social)
