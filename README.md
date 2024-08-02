@@ -11,7 +11,6 @@ My Research Team’s website: [blackholegroup.org](https://blackholegroup.org)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lullaby.utmost_0y@icloud.com)
 
 ![](https://github-readme-stats.vercel.app/api?username=rsnemmen&show_icons=true&theme=radical)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsnemmen&layout=compact&theme=radical)
 
 ## Trophy Case
