@@ -1,9 +1,11 @@
-## About Rodrigo
+## Hey, I’m Rodrigo
 
-Astrophysicist. Data scientist. Professor. Research Scientist. Team Leader. Curious person.
+I am an astrophysicist. I work at the interface between black hole astrophysics, machine learning and high-performance computing. When I am not thinking about these issues, I am reading, writing and riding motorcycles. I am originally from the south of Brazil.
 
-My website: [rodrigonemmen.com](https://rodrigonemmen.com) \
-My Research Team’s website: [blackholegroup.org](https://blackholegroup.org)
+- I lead a [black hole research group] (https://blackholegroup.org) at University of Sao Paulo (USP), where I have been fortunate to mentor fantastic researchers and data/computational scientists.
+- I am currently interested in challenging astrophysical problems and fun ML applications.
+- I taught several astronomy courses at USP.
+- Fun fact: I once represented my home state in a disk throwing competition, and, ironically, ended up researching gas disks around black holes.
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](http://www.youtube.com/@RodrigoNemmendaSilva)
 [![Goodreads Profile](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/23648829-rodrigo-nemmen)
@@ -16,11 +18,6 @@ My Research Team’s website: [blackholegroup.org](https://blackholegroup.org)
 ## Trophy Case
 
 ![](https://github-profile-trophy.vercel.app/?username=rsnemmen&theme=radical)
-
-## Contact Me
-
-- Email: [lullaby.utmost_0y@icloud.com](mailto:lullaby.utmost_0y@icloud.com) (this is an alias to minimize spam)
-- LinkedIn: [nemmen](https://linkedin.com/in/nemmen)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/rsnemmen?style=social)
