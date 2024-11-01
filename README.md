@@ -5,7 +5,7 @@ I am an astrophysicist. I work at the interface between black hole astrophysics,
 - 👥 I lead a [black hole research group](https://blackholegroup.org) at University of Sao Paulo (USP), where I have been fortunate to mentor fantastic researchers and data/computational scientists.
 - 📊 I am currently excited about neural operators, transformers and applying causal inference to science. Always interested in new, challenging astrophysical problems and fun ML applications.
 - 🌠 I taught several astronomy courses at USP, as a Professor.
-- 🌍 I have lived, in no particular order, in Wyoming, Passo Fundo, Washington DC, Sao Paulo, Pennsylvania, Porto Alegre and the Bay Area. 
+- 🌍 I have lived, in no particular order, in Wyoming, Passo Fundo, Washington DC, Sao Paulo, Pennsylvania, Durham (UK), Porto Alegre and the Bay Area. 
 - 🥏 Fun fact: I once represented my home state in a disk throwing competition, and, ironically, ended up researching gas disks around black holes.
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](http://www.youtube.com/@RodrigoNemmendaSilva)
