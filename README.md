@@ -1,16 +1,13 @@
 ## Hey, I’m Rodrigo
 
-I am a computational plasma physicist and astrophysicist working at the interface of simulations, machine learning, and high-performance computing.
+I am a computational plasma physicist and astrophysicist working at the interface of simulations, high-performance computing and experiments for fusion energy.
 
-I am currently a **Computational Science Manager at Helion**, where I work on computational plasma science for fusion energy. Before moving to industry, I was a professor and research group leader at the University of São Paulo, studying black holes, relativistic jets, accretion flows, and other extreme plasma environments.
+When I am not thinking about plasma physics or simulations, I am reading, writing, or riding motorcycles. I am originally from the south of Brazil.
 
-When I am not thinking about plasma physics, simulations, or machine learning, I am reading, writing, and riding motorcycles. I am originally from the south of Brazil.
-
-- ⚛️ I work on computational plasma physics, MHD, radiative transfer, scientific machine learning, and high-performance computing.
-- 🕳️ I previously led the [Black Hole Group](https://blackholegroup.org) at the University of São Paulo, where I mentored students, postdocs, and computational scientists.
-- 📊 I am interested in neural operators, transformers, causal inference for science, surrogate modeling, and scientific AI.
-- 🌠 I taught [several astronomy courses](https://rodrigonemmen.com/teaching/) at USP as a professor.
-- 🌍 I have lived, in no particular order, in Wyoming, Passo Fundo, Washington DC, São Paulo, Pennsylvania, Durham, Porto Alegre, the Bay Area, and the Seattle area.
+- ⚛️ I am currently a Computational Science Manager at Helion.
+- 🕳️ Before moving to industry, I was a [professor](https://rodrigonemmen.com) and [research group leader](https://blackholegroup.org) at the University of São Paulo, studying black holes, relativistic jets, accretion flows, and other extreme plasma environments.
+- 📊 When I am wearing my ML hat, I am interested in neural operators, transformers, surrogate modeling, and scientific AI.
+- 🌍 I have lived in 2 different states in Brazil, 5 states in US and briefly in UK.
 - 🥏 Fun fact: I once represented my home state in a discus throwing competition and, ironically, ended up researching accretion disks around black holes.
 
 Personal projects and opinions here are my own.
