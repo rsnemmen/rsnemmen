@@ -1,12 +1,19 @@
 ## Hey, I’m Rodrigo
 
-I am an astrophysicist. I work at the interface between black hole astrophysics, machine learning and high-performance computing. When I am not thinking about these issues, I am reading, writing and riding motorcycles. I am originally from the south of Brazil.
+I am a computational plasma physicist and astrophysicist working at the interface of simulations, machine learning, and high-performance computing.
 
-- 👥 I lead a [black hole research group](https://blackholegroup.org) at University of Sao Paulo (USP), where I have been fortunate to mentor fantastic researchers and data/computational scientists.
-- 📊 I am currently excited about neural operators, transformers and applying causal inference to science. Always interested in new, [challenging astrophysical problems](https://rsnemmen.github.io/astrophysics/) and fun ML applications.
-- 🌠 I taught [several astronomy courses](https://rodrigonemmen.com/teaching/) at USP, as a Professor.
-- 🌍 I have lived, in no particular order, in Wyoming, Passo Fundo, Washington DC, Sao Paulo, Pennsylvania, Durham (UK), Porto Alegre and the Bay Area. 
-- 🥏 Fun fact: I once represented my home state in a disk throwing competition, and, ironically, ended up researching gas disks around black holes.
+I am currently a **Computational Science Manager at Helion**, where I work on computational plasma science for fusion energy. Before moving to industry, I was a professor and research group leader at the University of São Paulo, studying black holes, relativistic jets, accretion flows, and other extreme plasma environments.
+
+When I am not thinking about plasma physics, simulations, or machine learning, I am reading, writing, and riding motorcycles. I am originally from the south of Brazil.
+
+- ⚛️ I work on computational plasma physics, MHD, radiative transfer, scientific machine learning, and high-performance computing.
+- 🕳️ I previously led the [Black Hole Group](https://blackholegroup.org) at the University of São Paulo, where I mentored students, postdocs, and computational scientists.
+- 📊 I am interested in neural operators, transformers, causal inference for science, surrogate modeling, and scientific AI.
+- 🌠 I taught [several astronomy courses](https://rodrigonemmen.com/teaching/) at USP as a professor.
+- 🌍 I have lived, in no particular order, in Wyoming, Passo Fundo, Washington DC, São Paulo, Pennsylvania, Durham, Porto Alegre, the Bay Area, and the Seattle area.
+- 🥏 Fun fact: I once represented my home state in a discus throwing competition and, ironically, ended up researching accretion disks around black holes.
+
+Personal projects and opinions here are my own.
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](http://www.youtube.com/@RodrigoNemmendaSilva)
 [![Goodreads Profile](https://img.shields.io/badge/Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/23648829-rodrigo-nemmen)
@@ -20,7 +27,6 @@ I am an astrophysicist. I work at the interface between black hole astrophysics,
 ## Trophy Case
 
 ![](https://github-profile-trophy.vercel.app/?username=rsnemmen&theme=radical)
-
 
 ![GitHub followers](https://img.shields.io/github/followers/rsnemmen?style=social)
 ![Follow me on X](https://img.shields.io/twitter/follow/nemmen?style=social)
