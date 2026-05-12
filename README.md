@@ -2,7 +2,7 @@
 
 I am a computational plasma physicist and astrophysicist working at the interface of simulations, high-performance computing and experiments for fusion energy.
 
-When I am not thinking about plasma physics or simulations, I am reading, writing, or riding motorcycles. I am originally from the south of Brazil.
+When I am not thinking about plasmas, I am reading, writing, or riding motorcycles. I am originally from the south of Brazil.
 
 - ⚛️ I am currently a Computational Science Manager at Helion.
 - 🕳️ Before moving to industry, I was a [professor](https://rodrigonemmen.com) and [research group leader](https://blackholegroup.org) at the University of São Paulo, studying black holes, relativistic jets, accretion flows, and other extreme plasma environments.
