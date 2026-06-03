@@ -4,7 +4,7 @@ I am a computational plasma physicist and astrophysicist working at the interfac
 
 When I am not thinking about plasmas, I am reading, writing, or riding motorcycles. I am originally from the south of Brazil.
 
-- ⚛️ I am currently a Computational Science Manager at Helion.
+- ⚛️ I am currently a Computational Science Manager at [Helion](https://www.helionenergy.com).
 - 🕳️ Before moving to industry, I was a [professor](https://rodrigonemmen.com) and [research group leader](https://blackholegroup.org) at the University of São Paulo, studying black holes, relativistic jets, accretion flows, and other extreme plasma environments.
 - 📊 When I am wearing my ML hat, I am interested in neural operators, transformers, surrogate modeling, and scientific AI.
 - 🌍 I have lived in 2 different states in Brazil, 5 states in US and briefly in UK.
